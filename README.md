@@ -1,6 +1,6 @@
 # Hi, I'm Herbert | Hybrid Bioengineering Scientist 🧬💻
 
-I am a PhD Bioengineer (EPFL) and MRes (Imperial College) specialized in bridging the gap between solution-state biophysics and computational modeling. My work focuses on building predictive analytical pipelines to decode the "rules of life" at the molecular and cellular scales.
+I am a **PhD Bioengineer (EPFL)** and **MRes (Imperial College)** specialized in bridging the gap between solution-state biophysics and computational modeling. My work focuses on building predictive analytical pipelines to decode the "rules of life" at the molecular and cellular scales.
 
 ---
 
@@ -9,6 +9,7 @@ I am a PhD Bioengineer (EPFL) and MRes (Imperial College) specialized in bridgin
 * **Cellular Feature Extraction:** Designing high-throughput computational frameworks to characterize collective behavior and mechanotaxis in complex biological systems.
 * **Predictive Computational Modeling:** Integrating molecular dynamics (MD) simulations with experimental data to develop predictive design principles for programmable biomaterials.
 * **Microfluidic & Molecular Engineering:** Skilled in kinetic modeling and microfluidic device design for high-resolution biophysical characterization.
+* **Scalable Lab Automation:** Automating image-to-insight workflows to bridge the gap between experimental biology and data science.
 * **Mentorship & Collaboration:** Experienced in bridging industrial partnerships and mentoring multidisciplinary research teams (PhD level).
 
 ---
@@ -27,8 +28,9 @@ I am a PhD Bioengineer (EPFL) and MRes (Imperial College) specialized in bridgin
 
 ### 🛠 Tech Stack
 **Programming:** Python (Scikit-Image, Pandas, NumPy, OpenCV), Java (ImageJ Macro), MATLAB.  
-**Biophysical Techniques:** SAXS, Confocal Microscopy, Solution-State Characterization.  
+**Bio-Imaging:** FIJI/TrackMate, Omnipose (CNN Segmentation), Confocal Microscopy, Nanolive.
 **Simulation & Tools:** Molecular Dynamics (MD), FIJI/TrackMate, Omnipose (CNN), Git/GitHub.
+**Science:** Analytical Chemistry, Biophysics, Bioengineering, Molecular Engineering, Nanotechnology, Syntheic Biology. 
 
 ---
 
