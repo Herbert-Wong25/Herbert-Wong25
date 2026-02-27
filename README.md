@@ -27,4 +27,4 @@ I bridge the gap between complex biological systems and quantitative data scienc
 **Bio-Tools:** FIJI/TrackMate, Omnipose (CNN Segmentation), Confocal Microscopy.  
 **Science:** Biophysics, Synthetic Biology, Molecular Engineering.
 
-📫 **Let's Connect:** [herbert.wong150@gmail.com/linkedin.com/in/siu-ho-wong-2020a]
+📫 **Let's Connect:** [herbert.wong150@gmail.com/ linkedin.com/in/siu-ho-wong-2020a]
