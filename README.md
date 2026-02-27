@@ -27,10 +27,10 @@ I am a **PhD Bioengineer (EPFL)** and **MRes (Imperial College)** specialized in
 ---
 
 ### 🛠 Tech Stack
-**Programming:** Python (Scikit-Image, Pandas, NumPy, OpenCV), Java (ImageJ Macro), MATLAB.  
-**Bio-Imaging:** FIJI/TrackMate, Omnipose (CNN Segmentation), Advanced Microscopy, Nanolive. 
-**Simulation & Tools:** Molecular Dynamics (MD), FIJI/TrackMate, Omnipose (CNN), Git/GitHub.
-**Science:** Analytical Chemistry, Biophysics, Bioengineering, Molecular Engineering, Nanotechnology, Syntheic Biology. 
+* **Programming:** Python (Scikit-Image, Pandas, NumPy, OpenCV), Java (ImageJ Macro), MATLAB.  
+* **Bio-Imaging:** FIJI/TrackMate, Omnipose (CNN Segmentation), Advanced Microscopy. 
+* **Simulation & Tools:** Molecular Dynamics (MD), FIJI, Omnipose (CNN), Git/GitHub.
+* **Science:** Analytical Chemistry, Biophysics, Bioengineering, Molecular Engineering, Nanotechnology, Syntheic Biology. 
 
 ---
 
