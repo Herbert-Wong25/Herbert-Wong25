@@ -1,30 +1,36 @@
 # Hi, I'm Herbert | Hybrid Bioengineering Scientist 🧬💻
 
-I bridge the gap between complex biological systems and quantitative data science. My work focuses on developing automated computational pipelines to decode biomolecular interactions and cellular group dynamics.
-
-### 🔬 Core Expertise
-* **Biomolecular Interaction Analysis:** Quantifying phase-selectivity and partitioning hierarchy at DNA-lipid interfaces.
-* **Cellular Feature Extraction:** Developing high-throughput pipelines for tracking and characterizing collective behavior in living systems.
-* **Biophysical Modeling:** Implementing mathematical frameworks (e.g., Nematic Order, Angular Gap Analysis) to translate microscopy into physical insights.
-* **Scalable Data Pipelines:** Automating image-to-insight workflows using Python (Scikit-Image, OpenCV) and FIJI/ImageJ.
+I am a PhD Bioengineer (EPFL) and MRes (Imperial College) specialized in bridging the gap between solution-state biophysics and computational modeling. My work focuses on building predictive analytical pipelines to decode the "rules of life" at the molecular and cellular scales.
 
 ---
 
-### 🚀 Key Projects (Updating)
+### 🔬 Core Expertise & Attributes
+* **Biomolecular Interaction Analysis:** Expert in quantifying DNA-lipid and protein-ligand interfaces using automated signal processing and predictive modeling (SAXS, solution-state techniques).
+* **Cellular Feature Extraction:** Designing high-throughput computational frameworks to characterize collective behavior and mechanotaxis in complex biological systems.
+* **Predictive Computational Modeling:** Integrating molecular dynamics (MD) simulations with experimental data to develop predictive design principles for programmable biomaterials.
+* **Microfluidic & Molecular Engineering:** Skilled in kinetic modeling and microfluidic device design for high-resolution biophysical characterization.
+* **Mentorship & Collaboration:** Experienced in bridging industrial partnerships and mentoring multidisciplinary research teams (PhD level).
 
-#### [DNA-Lipid Partitioning in Phase-Separated Membranes](https://github.com/Herbert-Wong25/Phase-separated_GUVs_Image_Analysis_2025)
-*Validated computational supplementary for a publication in **ACS Applied Materials & Interfaces** investigating the hierarchy of hydrophobic and electrostatic interactions.*
-* **Skills:** Signal processing, automated GUV segmentation, and quantitative biophysical characterization.
+---
 
-#### [Bacterial Mechanotaxis & Collective Dynamics](https://github.com/Herbert-Wong25/bacterial-mechanotaxis-analysis)
-*Developed a multi-stage pipeline to quantify how mechanosensory systems regulate collective phase transitions in bacterial colonies.*
-* **Skills:** Spatial statistics, high-density cell tracking, and iterative script evolution for feature extraction.
+### 🚀 Key Projects
+
+#### [Bacterial Mechanotaxis & Collective Feature Extraction](https://github.com/Herbert-Wong25/bacterial-mechanotaxis-analysis)
+*Developed an automated pipeline to extract cellular coordination features and quantify how mechanosensory systems regulate phase transitions in Pseudomonas aeruginosa.*
+* **Analytical Skills:** Spatial statistics, high-density cell tracking, and iterative feature refinement.
+
+#### [Biomolecular Interaction in Phase-Separated GUVs](https://github.com/Herbert-Wong25/Phase-separated_GUVs_Image_Analysis_2025)
+*Official validated computational pipeline for **ACS Applied Materials & Interfaces (2025)**, quantifying DNA partitioning hierarchy across liquid-ordered and liquid-disordered domains.*
+* **Analytical Skills:** Signal processing, automated GUV segmentation, and quantitative biophysical characterization of phase-selective partitioning.
 
 ---
 
 ### 🛠 Tech Stack
-**Languages:** Python (Pandas, NumPy, Scipy, Matplotlib), Java (ImageJ Macro).  
-**Bio-Tools:** FIJI/TrackMate, Omnipose (CNN Segmentation), Confocal Microscopy.  
-**Science:** Biophysics, Synthetic Biology, Molecular Engineering.
+**Programming:** Python (Scikit-Image, Pandas, NumPy, OpenCV), Java (ImageJ Macro), MATLAB.  
+**Biophysical Techniques:** SAXS, Confocal Microscopy, Solution-State Characterization.  
+**Simulation & Tools:** Molecular Dynamics (MD), FIJI/TrackMate, Omnipose (CNN), Git/GitHub.
 
-📫 **Let's Connect:** [herbert.wong150@gmail.com/ linkedin.com/in/siu-ho-wong-2020a]
+---
+
+### 📫 Let's Connect
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/siu-ho-wong-2020a) | [herbert.wong150@gmail.com](mailto:herbert.wong150@gmail.com)
