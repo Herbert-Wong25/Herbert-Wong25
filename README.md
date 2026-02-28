@@ -20,7 +20,7 @@ I am a **PhD Bioengineer (EPFL)** and **MRes (Imperial College)** specialized in
 *Official validated computational pipeline for **ACS Applied Materials & Interfaces (2025)**, quantifying DNA partitioning hierarchy across liquid-ordered and liquid-disordered domains.*
 * **Analytical Skills:** Signal processing, automated GUV segmentation, and quantitative biophysical characterization of phase-selective partitioning.
 
-#### [Bacterial Mechanotaxis & Collective Feature Extraction](https://github.com/Herbert-Wong25/Bacterial_Mechanotaxis_Analysis)
+#### [Bacterial Mechanotaxis & Collective Feature Extraction](https://github.com/Herbert-Wong25/High-Throughput_Analysis_of_Bacterial_Collective_Dynamics)
 *Developed an automated pipeline to extract cellular coordination features and quantify how mechanosensory systems regulate phase transitions in Pseudomonas aeruginosa.*
 * **Analytical Skills:** Spatial statistics, high-density cell tracking, and iterative feature refinement.
 
