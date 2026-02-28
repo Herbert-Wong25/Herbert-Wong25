@@ -5,7 +5,7 @@ I am a **PhD Bioengineer (EPFL)** and **MRes (Imperial College)** specialized in
 ---
 
 ### 🔬 Core Expertise & Attributes
-* **Biomolecular Interaction Analysis:** Expert in quantifying DNA-lipid and protein-ligand interfaces using automated signal processing and predictive modeling (SAXS, solution-state techniques).
+* **Biomolecular Interaction Analysis:** Expert in quantifying DNA-lipid and protein-ligand interfaces using automated signal processing and predictive modeling (microfluidic, finite element analysis, solution-state techniques).
 * **Cellular Feature Extraction:** Designing high-throughput computational frameworks to characterize collective behavior and mechanotaxis in complex biological systems.
 * **Predictive Computational Modeling:** Integrating molecular dynamics (MD) simulations with experimental data to develop predictive design principles for programmable biomaterials.
 * **Microfluidic & Molecular Engineering:** Skilled in kinetic modeling and microfluidic device design for high-resolution biophysical characterization.
