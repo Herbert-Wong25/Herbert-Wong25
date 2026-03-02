@@ -1,38 +1,47 @@
-# Hi, I'm Herbert | Hybrid Bioengineering Scientist 🧬💻
+# Hi, I'm Herbert | Hybrid Bioengineering Scientist 🧬💻 (Bioinformatics • Computational Modeling • Systems Mechanobiology)
 
-I am a **PhD Bioengineer (EPFL)** and **MRes (Imperial College)** specialized in bridging the gap between solution-state biophysics and computational modeling. My work focuses on building predictive analytical pipelines to decode the "rules of life" at the molecular and cellular scales.
-
----
-
-### 🔬 Core Expertise & Attributes
-* **Biomolecular Interaction Analysis:** Expert in quantifying DNA-lipid and protein-ligand interfaces using automated signal processing and predictive modeling (microfluidic, finite element analysis, solution-state techniques).
-* **Cellular Feature Extraction:** Designing high-throughput computational frameworks to characterize collective behavior and mechanotaxis in complex biological systems.
-* **Predictive Computational Modeling:** Integrating molecular dynamics (MD) simulations with experimental data to develop predictive design principles for programmable biomaterials.
-* **Microfluidic & Molecular Engineering:** Skilled in kinetic modeling and microfluidic device design for high-resolution biophysical characterization.
-* **Scalable Lab Automation:** Automating image-to-insight workflows to bridge the gap between experimental biology and data science.
-* **Mentorship & Collaboration:** Experienced in bridging industrial partnerships and mentoring multidisciplinary research teams (PhD level).
+I am a **PhD Bioengineer (EPFL)** and **MRes (Imperial College)** specialized in bridging the gap between complex biological systems and quantitative computational frameworks. My work focuses on integrating integrating "wetlab" expertise with "drylab" execution to develop high-throughput pipelines that translate raw experimental data into absolute  insights for therapeutics and diagnotics.
 
 ---
 
-### 🚀 Key Projects
+## Tech Stack & Core Expertise
 
-#### [Biomolecular Interaction in Phase-Separated GUVs](https://github.com/Herbert-Wong25/Phase-separated_GUVs_Image_Analysis_2025)
-*Official validated computational pipeline for **ACS Applied Materials & Interfaces (2025)**, quantifying DNA partitioning hierarchy across liquid-ordered and liquid-disordered domains.*
-* **Analytical Skills:** Signal processing, automated GUV segmentation, and quantitative biophysical characterization of phase-selective partitioning.
+### **Computational & In Silico Modeling**
 
-#### [Bacterial Mechanotaxis & Collective Feature Extraction](https://github.com/Herbert-Wong25/High-Throughput_Analysis_of_Bacterial_Collective_Dynamics)
-*Developed an automated pipeline to extract cellular coordination features and quantify how mechanosensory systems regulate phase transitions in Pseudomonas aeruginosa.*
-* **Analytical Skills:** Spatial statistics, high-density cell tracking, and iterative feature refinement.
+* **Molecular & Structural Modeling:** Coarse-grained Molecular Dynamics (MD), Finite Element Analysis (FEA), and NA Nanotechnology design.
+* **Image Informatics & Computer Vision:** CNN-based segmentation (Omnipose/Cellpose), automated tracking (TrackMate), and custom Python pipelines for high-throughput phenotyping.
+* **Applied Mathematics:** Langmuir Binding Kinetics, Washburn/Darcy flow dynamics, Spatial Statistics (Nematic Order), and Linear Interpolation.
+* **Data Science:** Multivariate Methods (Manova/PCA/Regression), Statistical Metrology (Pixel-to-Physics calibration), and ALCOA+ compliant data management.
+
+### **The Data Foundation**
+
+* **Bioengineering:** **Micro/Nano engineering** for nanoparticle synthesis (PtNPs/AuNPs), Bioconjugation, and Nucleic Acid (NA) Nanotechnology.
+* **Analytical Characterization:** Advanced Microscopy, Scattering (DLS/ELS), HPLC, Mass Spectrometry (MS), Spectroscopy, qPCR, and QCM.
+* **System Engineering:** Microfluidic architecture (CAD/SolidWorks), Lipids (LNPs, Vesicles) fabrication, and precise experimental design for cell mechanobiology.
+* **Science:** Analytical Chemistry, Biophysics, Bioengineering, Molecular Engineering, Nanotechnology, Syntheic Biology.
 
 ---
 
-### 🛠 Tech Stack
-* **Programming:** Python (Scikit-Image, Pandas, NumPy, OpenCV), Java (ImageJ Macro), MATLAB.  
-* **Bio-Imaging:** FIJI/TrackMate, Omnipose (CNN Segmentation), Advanced Microscopy. 
-* **Simulation & Tools:** Molecular Dynamics (MD), FIJI, Omnipose (CNN), Git/GitHub.
-* **Science:** Analytical Chemistry, Biophysics, Bioengineering, Molecular Engineering, Nanotechnology, Syntheic Biology. 
+## My Portfolio: A Multi-Scale R&D Journey (Stay tuned for more!)
+
+| Project | Domain | Technical Narrative |
+| --- | --- | --- |
+| **[Multivalent Biomolecular Analysis](https://github.com/Herbert-Wong25/Multivalent_Biomolecular_Analysis)** | **Nano Letters (2024)** | **Coarse-grained MD (oxDNA)** to model molecular interactions at the DNA-Membrane interface. |
+| **[Bio-Image Informatics](https://github.com/Herbert-Wong25/Selective_Membrane_Targeting_of_Nanostructure)** | **ACS AMI (2025)** | **Mathematical segmentation** of phase-separated membranes and high-throughput data analysis. |
+| **[Automated PoC Diagnostics](https://github.com/Herbert-Wong25/In-Silico_Modeling_and_Simulation_of__PoC_Diagnostics)** | **Imperial MRes Thesis** | *In Silico* modeling of **Washburn flow** and **Binding Kinetics** (Distinction). |
+| **[High-Throughput RT-DC](https://github.com/Herbert-Wong25/High-Throughput_Mechanical_Phenotyping)** | **Mechanobiology** | **Deep Learning (CNN)** segmentation and 90% data reduction for cancer cell phenotyping. |
+| **[Bacterial Mechanotaxis](https://github.com/Herbert-Wong25/Analysis_of_Bacterial_Collective_Dynamics)** | **EPFL Research** | **Spatial Statistics** and automated tracking to quantify collective group dynamics. |
+| **[Growth-Induced Pressure](https://github.com/Herbert-Wong25/Auto-Quantification_of_Cell_Growth_Induced_Pressure)** | **Bio-Image Informatics** | Custom **Metrology pipeline** translating pixels into absolute physical pressure (mbar). |
+
+---
+
+## Impact & Professional Attributes
+
+* **Systems Thinker:** Able to decompose complex biophysical & biochemical phenomena into testable, scalable computational models.
+* **R&D Efficiency:** Proven track record of reducing computational overhead (e.g., 10x data reduction) and automating multi-step laboratory protocols.
+* **Quality & Compliance:** Deeply committed to Data Integrity (ALCOA+), GLP/GxP(GMP), and ISO standards to ensure R&D reproducibility; experienced in **ELN (SLIM)** documentation, milestone-driven planning, and navigating rigorous Swiss/EU/US/Asia regulatory norms.
 
 ---
 
 ### 📫 Let's Connect
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/siu-ho-wong-2020a) | [herbert.wong150@gmail.com](mailto:herbert.wong150@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/siu-ho-wong-2020a) | [herbert.wong150@gmail.com](mailto:herbert.wong150@gmail.com) | 🏠 Currently based in Switzerland 🇨🇭 (EPFL/Lausanne region)
