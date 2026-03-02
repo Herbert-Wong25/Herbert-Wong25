@@ -1,6 +1,10 @@
-## Hi, I'm Herbert | Hybrid Bioengineering Scientist 🧬💻
+## Herbert Siu-Ho Wong | Hybrid Bioengineering Scientist 🧬💻
 
-I am a **PhD Bioengineer (EPFL)** and **MRes (Imperial College)** specialized in bridging the gap between complex biological systems and quantitative computational frameworks. My work focuses on integrating integrating "**wetlab**" expertise with "**drylab**" execution to develop high-throughput pipelines that translate raw experimental data into **actionable insights** for therapeutics and diagnostics.
+**PhD Bioengineering · EPFL (2025) | MRes · Imperial College London**
+
+I develop integrated R&D pipelines that connect experimental biology with quantitative computational frameworks — translating raw data into actionable insights for **therapeutics and diagnostics**.
+
+My work sits at the intersection of **wet lab execution** and **dry lab analysis**: from nanoparticle synthesis and analytical characterization, to molecular dynamics simulations, deep learning-based image analysis, and in silico modeling. My current focus is to develop high-throughput pipelines that translate raw experimental data into **actionable insights** for therapeutics and diagnostics.
 
 ---
 
@@ -24,7 +28,7 @@ I am a **PhD Bioengineer (EPFL)** and **MRes (Imperial College)** specialized in
 
 ### My Portfolio: A Multi-Scale R&D Journey (Stay tuned for more!)
 
-| Project | Domain | Technical Narrative |
+| Project | Venue | Highlight |
 | --- | --- | --- |
 | **[Multivalent Biomolecular Analysis](https://github.com/Herbert-Wong25/Multivalent_Biomolecular_Analysis)** | **Nano Letters (2024)** | **Coarse-grained MD (oxDNA)** to model molecular interactions at the DNA-Membrane interface. |
 | **[Bio-Image Informatics](https://github.com/Herbert-Wong25/Selective_Membrane_Targeting_of_Nanostructure)** | **ACS AMI (2025)** | **Mathematical segmentation** of phase-separated membranes and high-throughput data analysis. |
