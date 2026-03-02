@@ -14,7 +14,7 @@ My work sits at the intersection of **wet lab execution** and **dry lab analysis
 
 * **Molecular & Structural Modeling:** Coarse-grained Molecular Dynamics (MD), Finite Element Analysis (FEA), and NA Nanotechnology design.
 * **Image Informatics & Computer Vision:** CNN-based segmentation (Omnipose/Cellpose), automated tracking (TrackMate), and custom Python pipelines for high-throughput phenotyping.
-* **Applied Mathematics:** Langmuir Binding Kinetics, Washburn/Darcy flow dynamics, Spatial Statistics (Nematic Order), and Linear Interpolation.
+* **Applied Mathematics:** Langmuir Binding Kinetics, Washburn/Darcy flow dynamics, Spatial Statistics, and Linear Interpolation.
 * **Data Science:** Multivariate Methods (Manova/PCA/Regression), Statistical Metrology (Pixel-to-Physics calibration), and ALCOA+ compliant data management.
 
 #### **The Data Foundation**
