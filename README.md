@@ -1,6 +1,6 @@
 ## Hi, I'm Herbert | Hybrid Bioengineering Scientist 🧬💻
 
-I am a **PhD Bioengineer (EPFL)** and **MRes (Imperial College)** specialized in bridging the gap between complex biological systems and quantitative computational frameworks. My work focuses on integrating integrating "wetlab" expertise with "drylab" execution to develop high-throughput pipelines that translate raw experimental data into absolute  insights for therapeutics and diagnotics.
+I am a **PhD Bioengineer (EPFL)** and **MRes (Imperial College)** specialized in bridging the gap between complex biological systems and quantitative computational frameworks. My work focuses on integrating integrating "**wetlab**" expertise with "**drylab**" execution to develop high-throughput pipelines that translate raw experimental data into **actionable insights** for therapeutics and diagnostics.
 
 ---
 
