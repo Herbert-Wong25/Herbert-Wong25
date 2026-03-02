@@ -1,19 +1,19 @@
-# Hi, I'm Herbert | Hybrid Bioengineering Scientist 🧬💻 (Bioinformatics • Computational Modeling • Systems Mechanobiology)
+## Hi, I'm Herbert | Hybrid Bioengineering Scientist 🧬💻
 
 I am a **PhD Bioengineer (EPFL)** and **MRes (Imperial College)** specialized in bridging the gap between complex biological systems and quantitative computational frameworks. My work focuses on integrating integrating "wetlab" expertise with "drylab" execution to develop high-throughput pipelines that translate raw experimental data into absolute  insights for therapeutics and diagnotics.
 
 ---
 
-## Tech Stack & Core Expertise
+### Tech Stack & Core Expertise
 
-### **Computational & In Silico Modeling**
+#### **Computational & In Silico Modeling**
 
 * **Molecular & Structural Modeling:** Coarse-grained Molecular Dynamics (MD), Finite Element Analysis (FEA), and NA Nanotechnology design.
 * **Image Informatics & Computer Vision:** CNN-based segmentation (Omnipose/Cellpose), automated tracking (TrackMate), and custom Python pipelines for high-throughput phenotyping.
 * **Applied Mathematics:** Langmuir Binding Kinetics, Washburn/Darcy flow dynamics, Spatial Statistics (Nematic Order), and Linear Interpolation.
 * **Data Science:** Multivariate Methods (Manova/PCA/Regression), Statistical Metrology (Pixel-to-Physics calibration), and ALCOA+ compliant data management.
 
-### **The Data Foundation**
+#### **The Data Foundation**
 
 * **Bioengineering:** **Micro/Nano engineering** for nanoparticle synthesis (PtNPs/AuNPs), Bioconjugation, and Nucleic Acid (NA) Nanotechnology.
 * **Analytical Characterization:** Advanced Microscopy, Scattering (DLS/ELS), HPLC, Mass Spectrometry (MS), Spectroscopy, qPCR, and QCM.
@@ -22,7 +22,7 @@ I am a **PhD Bioengineer (EPFL)** and **MRes (Imperial College)** specialized in
 
 ---
 
-## My Portfolio: A Multi-Scale R&D Journey (Stay tuned for more!)
+### My Portfolio: A Multi-Scale R&D Journey (Stay tuned for more!)
 
 | Project | Domain | Technical Narrative |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ I am a **PhD Bioengineer (EPFL)** and **MRes (Imperial College)** specialized in
 
 ---
 
-## Impact & Professional Attributes
+### Impact & Professional Attributes
 
 * **Systems Thinker:** Able to decompose complex biophysical & biochemical phenomena into testable, scalable computational models.
 * **R&D Efficiency:** Proven track record of reducing computational overhead (e.g., 10x data reduction) and automating multi-step laboratory protocols.
