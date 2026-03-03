@@ -48,4 +48,4 @@ My work sits at the intersection of **wet lab execution** and **dry lab analysis
 ---
 
 ### 📫 Let's Connect
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/siu-ho-wong-2020a) | [herbert.wong150@gmail.com](mailto:herbert.wong150@gmail.com) | 🏠 Currently based in Switzerland 🇨🇭 (EPFL/Lausanne region)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/siu-ho-wong-2020a) | [herbert.wong150@gmail.com](mailto:herbert.wong150@gmail.com) | 🏠 Switzerland 🇨🇭 (Lausanne region)
