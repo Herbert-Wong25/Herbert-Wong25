@@ -2,9 +2,9 @@
 
 **PhD Bioengineering · EPFL (2025) | MRes · Imperial College London**
 
-I develop integrated R&D pipelines that connect experimental biology with quantitative computational frameworks — translating raw data into actionable insights for **therapeutics and diagnostics**.
+I develop integrated R&D pipelines that connect experimental biology with quantitative computational frameworks — translating raw microscopy and characterization data into **actionable insights for decision-making**.
 
-My work sits at the intersection of **wet lab execution** and **dry lab analysis**: from nanoparticle synthesis and analytical characterization, to molecular dynamics simulations, deep learning-based image analysis, and in silico modeling. My current focus is building high-throughput pipelines that bridge experimental data and **quantitative decision-making** across drug delivery, mechanobiology, and diagnostics.
+My work sits at the intersection of **wet lab execution** and **dry lab analysis**: from nanoparticle synthesis and analytical characterization, to molecular dynamics simulations, deep learning-based image analysis, and in silico modeling. My current focus is building high-throughput pipelines with direct applications in **drug delivery, biomanufacturing** (e.g. bioprocess development, process engineering), **diagnostics**, and **mechanobiology**.
 
 ---
 
@@ -31,10 +31,10 @@ My work sits at the intersection of **wet lab execution** and **dry lab analysis
 | Project | Venue | Highlight |
 | --- | --- | --- |
 | **[Bio-Image Informatics](https://github.com/Herbert-Wong25/Selective_Membrane_Targeting_of_Nanostructure)** | **ACS AMI (2025)** | End-to-end image analysis pipeline: **Hough Circle Transform** for vesicle detection, **Angular Gap Analysis** for Lo/Ld phase segmentation, and fluorescence quantification along membrane contours. |
-| **[High-Throughput RT-DC](https://github.com/Herbert-Wong25/High-Throughput_Mechanical_Phenotyping)** | **Mechanobiology** | FIJI + **Deep Learning CNN** (Omnipose `cyto`) + Python pipeline for label-free cancer cell mechanical phenotyping — **~10.6× data reduction** (11 GB → 1 GB) and per-condition 90% CI quality filtering. |
+| **[High-Throughput RT-DC](https://github.com/Herbert-Wong25/High-Throughput_Mechanical_Phenotyping)** | **Cell Mechanophenotyping** | FIJI + **Deep Learning CNN** (Omnipose `cyto`) + Python pipeline for label-free cancer cell mechanical phenotyping — **~10.6× data reduction** (11 GB → 1 GB) and per-condition 90% CI quality filtering. |
 | **[Multivalent Biomolecular Analysis](https://github.com/Herbert-Wong25/Multivalent_Biomolecular_Analysis)** | **Nano Letters (2024)** | Image analysis pipeline quantifying DNA nanostructure binding to GUVs via multivalent hydrophobic anchoring — **confocal segmentation**, membrane skeletonization, and per-vesicle Cy5 intensity extraction. Journal Cover. |
 | **[Bacterial Mechanotaxis](https://github.com/Herbert-Wong25/Analysis_of_Bacterial_Collective_Dynamics)** | **EPFL Research** | **Spatial Statistics** and automated tracking to quantify collective group dynamics. |
-| **[Growth-Induced Pressure](https://github.com/Herbert-Wong25/Auto-Quantification_of_Cell_Growth_Induced_Pressure)** | **Bioinformatics** | Custom **Metrology pipeline** translating pixels into absolute physical pressure (kPa) — wall resampling, morphological refinement, and Eeff-based GIP quantification. |
+| **[Growth-Induced Pressure](https://github.com/Herbert-Wong25/Auto-Quantification_of_Cell_Growth_Induced_Pressure)** | **Microbial Mechanobiology** | Custom **Metrology pipeline** translating pixels into absolute physical pressure (kPa) — wall resampling, morphological refinement, and Eeff-based GIP quantification. |
 | **[Automated PoC Diagnostics](https://github.com/Herbert-Wong25/In-Silico_Modeling_and_Simulation_of__PoC_Diagnostics)** | **Imperial MRes Thesis** | *In Silico* modeling of **Washburn flow** and **Binding Kinetics** (Distinction). |
 
 ---
