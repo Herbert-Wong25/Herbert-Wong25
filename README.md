@@ -19,7 +19,7 @@ My work sits at the intersection of **wet lab execution** and **dry lab analysis
 
 #### **The Data Foundation**
 
-* **Bioengineering:** **Micro/Nano engineering** for nanoparticle synthesis (PtNPs/AuNPs), Bioconjugation, and Nucleic Acid (NA) Nanotechnology.
+* **Bioengineering:** **Micro/Nano engineering** for Peptides/Nanoparticles Synthesis, Bioconjugation, and Nucleic Acid (NA) Nanotechnology.
 * **Analytical Characterization:** Advanced Microscopy, Scattering (DLS/ELS), HPLC, Mass Spectrometry (MS), Spectroscopy, qPCR, and QCM.
 * **System Engineering:** Microfluidic architecture (CAD/SolidWorks), Lipids (LNPs, Vesicles) fabrication, and precise experimental design for cell mechanobiology.
 * **Science:** Analytical Chemistry, Biophysics, Bioengineering, Molecular Engineering, Nanotechnology, Syntheic Biology.
