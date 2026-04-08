@@ -1,6 +1,6 @@
 ## Herbert Siu-Ho Wong | Hybrid Bioengineering Scientist 🧬💻
 
-**PhD Bioengineering · EPFL (2025) | MRes · Imperial College London**
+**PhD Bioengineering · EPFL (2025) | MRes · Imperial College London (2020)**
 
 I develop integrated R&D pipelines that connect experimental biology with quantitative computational frameworks — translating raw microscopy and characterization data into **actionable insights for decision-making**.
 
